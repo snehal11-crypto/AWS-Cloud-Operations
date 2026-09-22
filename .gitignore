@@ -1,0 +1,16 @@
+.aws/
+.ssh/
+.kube/
+.cache/
+.config/
+.docker/
+.local/
+.m2/
+.npm/
+anydesk/
+*.log
+*.pem
+*.key
+terraform.tfstate
+terraform.tfstate.*
+.terraform/
